@@ -11,7 +11,7 @@ export {
     Main,
     ProjectItem,
     Projects,
-    SideNav,
+SideNav,
     Work,
     WorkItem
 }
